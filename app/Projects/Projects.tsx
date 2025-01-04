@@ -10,11 +10,7 @@ import Link from "next/link"
 
 
 
-// https://secondbrain-blue.vercel.app
-// https://heygen-navy.vercel.app
-// https://webchatprudvi.vercel.app
-// https://votingwebsitesss.vercel.app
-// https://vscode-clone-olive.vercel.app
+
 
 
 const Projects = () => {
@@ -28,7 +24,7 @@ const Projects = () => {
           Check out my latest work
         </p>
         <p className="text-gray-500  text-[10px] md:text-xl pt-2  ">
-          I've built some stuff, here are some that I like.
+          I&apos;ve built some stuff<span>,</span>here are some that I like.
         </p>
       </div>
 
@@ -38,7 +34,7 @@ const Projects = () => {
           <Link href="https://secondbrain-blue.vercel.app"><Image src={secondbrain} alt="al" width={300} /></Link>
           <p className="font-mono mt-1 font-semibold">Secondbrain</p>
           <p className="text-sm text-gray-400  pt-1 font-medium leading-4 font-mono  ">
-            Share your entire collection of notes, documents, tweets, and videos
+            Share your entire collection of notes<span>,</span> documents<span>,</span>tweets<span>,</span> and videos
             with others.
           </p>
 
@@ -156,7 +152,8 @@ const Projects = () => {
             Websocket
           </button>
 
-          <Link href="https://votingwebsitesss.vercel.app">
+          <Link href="https://votingwebsitesss.vercel.app
+          // ">
         <div className="flex items-center mt-2">
 
 
