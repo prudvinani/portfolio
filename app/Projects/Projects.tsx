@@ -80,7 +80,7 @@ const Projects = () => {
         </div>
 
         <div className="cursor-pointer ">
-          <Link href="https://webchatprudvi.vercel.app"><Image src={realchat} alt="al" width={300} /></Link>
+          <Link href="https://realtimechat1.vercel.app/"><Image src={realchat} alt="al" width={300} /></Link>
           <p className="mt-2 font-semibold font-mono">Real Time Chat</p>
           <p className="text-sm text-gray-400 font-mono">
             A real time chat app that has temporary rooms. Scalable.
@@ -109,7 +109,7 @@ const Projects = () => {
           </button>
           <br />
 
-          <Link href="https://webchatprudvi.vercel.app">
+          <Link href="https://realtimechat1.vercel.app/">
         <div className="flex items-center mt-2">
 
 

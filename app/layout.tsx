@@ -4,7 +4,6 @@ import { Montserrat } from "next/font/google";
 import "./globals.css";
 import { Navbar } from "./Projects/Navbar";
 import { ThemeProvider } from "@/components/theme-provider";
-
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
@@ -23,9 +22,7 @@ const montserrat = Montserrat({
 export const metadata: Metadata = {
   title: "Prudvi",
   description: "prudvi",
-  icons:{
-    icon:['/me.jpeg']
-  }
+ 
 };
 
 export default function RootLayout({
