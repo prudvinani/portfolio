@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import secondbrain from "../../public/secondbrain.jpeg";
+import secondbrain from "../../public/supermemory.jpeg";
 import realchat from "../../public/reallchat.jpeg"
 import realvoting from "../../public/realtimevoting.jpeg"
 import vscode from "../../public/vs.png"
