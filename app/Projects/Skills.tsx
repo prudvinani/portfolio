@@ -26,6 +26,9 @@ const Skills = () => {
         <button className="bg-black text-white inline px-4 py-[6px] rounded-xl text-[10px]  font-mono ">
           Postgres
         </button>
+        <button className="bg-black text-white inline px-4 py-[6px] rounded-xl text-[10px]  font-mono ">
+          Nextjs
+        </button>
       </div>
 
       <p className="font-mono text-xl mt-5">Education</p>
