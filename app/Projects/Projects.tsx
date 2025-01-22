@@ -105,7 +105,7 @@ const Projects = () => {
           </button>
 
           <button  className="text-[9px] md:text-[11px] bg-gray-200 dark:bg-neutral-900 dark:text-white font-montserrat font-semibold py-[3px] px-2 rounded-lg">
-            Socket.oi
+            Websocket
           </button>
           <br />
 
