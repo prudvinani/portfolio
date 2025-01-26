@@ -196,7 +196,7 @@ const Projects = () => {
 
       <div className="grid grid-rows-1   md:grid-cols-2 gap-1 mt-6 ">
         <div className="cursor-pointer ">
-        <Link href="https://heygen-navy.vercel.app"><Image src={heygen} alt="al" width={300} /></Link>
+        <Link href="https://heygenlandingpage.vercel.app/"><Image src={heygen} alt="al" width={300} /></Link>
           <p className="mt-2 font-mono font-semibold">Heygen (UI)</p>
           <p className="text-sm text-gray-400 font-mono">
             It Just Simple Landing of Heygen (UI){" "}
